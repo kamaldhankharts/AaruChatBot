@@ -1,6 +1,6 @@
 {
-  "name": "Aaru ChatBot",
-  "description": "Aaru ChatBot is an AI-powered Telegram bot with smart responses, automation, and seamless integrations using Python, MongoDB, and Pyrogram.",
+  "name": "Sanjana✨",
+  "description": "Sanjana ChatBot is an AI-powered Telegram bot with smart responses, automation, and seamless integrations using Python, MongoDB, and Pyrogram.",
   "logo": "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
   "keywords": [
     "Chatbot",
@@ -13,17 +13,17 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/CodeSearchDev/AaruChatBot",
+  "repository": "https://github.com/kamaldhankharts/AaruChatBot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "20228606"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "61a79a589d97b5e632408a60bbab0a6d"
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather.",
@@ -48,7 +48,7 @@
     "OWNER_ID": {
       "description": "User ID of the bot owner.",
       "required": true,
-      "value": ""
+      "value": "7867808012"
     }
   }
 }
